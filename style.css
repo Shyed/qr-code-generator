@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 2rem;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+.container {
+  margin-bottom: 1.5rem;
+}
+
+input[type="text"] {
+  width: 300px;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  background-color: #0077ff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  margin-left: 0.5rem;
+  cursor: pointer;
+}
+
+.qr-result img {
+  margin-top: 1.5rem;
+  width: 200px;
+  height: 200px;
+}
