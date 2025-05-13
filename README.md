@@ -31,6 +31,9 @@ qr-code-generator/
 └── screenshots/
 └── qr-generator.png
 
+Author
+Created by Sheila Demonteverde  
+Junior Software Engineering Student at Penn State World Campus
 
 ## Notes
 This project uses a third-party API that does not require an API key. Great for learning how to work with APIs and user input.
